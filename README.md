@@ -4,7 +4,7 @@
 <h3 align="center">Computer science and engineering student 😼</h3>
 
 - 👾 I’m currently learning Java pl and electrotechnics.
-- 📫 t.me/coxxlongg
+- 📫 Contact me via telegram - t.me/coxxlongg
 
 <!---
 coxxlongg/coxxlongg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
